@@ -29,5 +29,4 @@ Soy un estudiante universitario próximo a graduarme como Ingeniero en TIC's. Me
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o solo quieres saludar, no dudes en contactarme.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-OzkV&theme=dark&background=000000)](https://git.io/streak-stats)
 
